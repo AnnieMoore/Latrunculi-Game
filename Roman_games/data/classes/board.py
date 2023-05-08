@@ -125,13 +125,13 @@ class Board:
         
     def check_white_counters(self):
         output = False
-        if self.white_counter > 2:
+        if self.white_counter > 5:
             output = True
         return output
         
     def check_black_counters(self):
         output = False
-        if self.black_counter > 2:
+        if self.black_counter > 5:
             output = True
         return output
         
