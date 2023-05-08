@@ -1,5 +1,5 @@
 # Latrunculi-Game
-This allows the user to play Latrunculi, a popular game in the Roman Republic that is similar to chess.
+This allows the user to play Latrunculi, a popular game in the Roman Republic that is similar to chess. Majority of the code is based on the tutorial in https://www.thepythoncode.com/article/make-a-chess-game-using-pygame-in-python and https://github.com/x4nth055/pythoncode-tutorials/tree/master/gui-programming/chess-game
 
 To install and play this game on your computer, follow the steps outlined below:
 
