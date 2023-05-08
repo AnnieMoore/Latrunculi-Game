@@ -9,7 +9,11 @@ To install and play this game on your computer, follow the steps outlined below:
 
 3. Open up the terminal on your computer. For Macs, you can search terminal in your spotlight search and click on the first result.
 
-4. Move to the directory that contains the code to start the game. If the file is saved in your downloads folder, you want to get there in your terminal by typing cd downloads/Roman_games.
+4. Move to the directory that contains the code to start the game. 
+
+    4a. For 2 player (black and white choose their own moves): If the file is saved in your downloads folder, you want to get there in your terminal by typing cd downloads/Roman_games.
+    
+    4b. For 1-ish player (need to pick the black piece to move, but the move it makes is randomly chosen. I don't think that it can currently capture a white piece on its own, so this is probably a good version to practice strategy!): If the file is saved in your downloads folder, you want to get there in your terminal by typing cd downloads/Roman_games_random_moves.
 
 5. Start the game by typing python main.py into your terminal
 
